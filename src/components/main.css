@@ -1,0 +1,11 @@
+.nav-link:hover{ 
+    color: rgb(244, 20, 20) ;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.boot1{
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
